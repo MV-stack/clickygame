@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name": "Harley Quinn",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/f/f0/InjusticeHarleyQuinnInsurgancy.png/revision/latest?cb=20180502201611"
+    },
+    {
+        "id": 2,
+        "name": "Green Lantern",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/a/af/Green_lantern_injustice_2_render_by_yukizm-db1q6kb.png/revision/latest?cb=20170516214204"
+    },
+    {
+        "id": 3,
+        "name": "Batman",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/c4/Injustice2-BATMAN-wallpaper-MOBILE-49546165.jpg/revision/latest?cb=20171027231117"
+    },
+    {
+        "id": 4,
+        "name": "Superman",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/e/ec/InjusticeSupermanRegime.png/revision/latest?cb=20180502213154"
+    },
+    {
+        "id": 5,
+        "name": "Joker",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/d/d3/InjusticeTheJokerInsurgency.png/revision/latest?cb=20180606232846"
+    },
+    {
+        "id": 6,
+        "name": "Wonder Woman",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/4/41/InjusticeWonderWomanRegime.png/revision/latest?cb=20180502213608"
+    },
+    {
+        "id": 7,
+        "name": "Solomon Grundy",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/4/4b/InjusticeSolomonGrundyRegime.png/revision/latest?cb=20180518150411"
+    },
+    {
+        "id": 9,
+        "name": "Lex Luthor",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/ca/InjusticeLexLuthorRegime.png/revision/latest?cb=20180502202125"
+    },
+    {
+        "id": 10,
+        "name": "Black Manta",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/3/34/Injustice2-BLACKMANTA-wallpaper-mobile-854564.jpg/revision/latest?cb=20171019190855"
+    },
+    {
+        "id": 11,
+        "name": "Aquaman",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/3/35/Injustice2Aquaman.jpg/revision/latest?cb=20180606212313"
+    },
+    {
+        "id": 12,
+        "name": "Bane",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/f/f0/InjusticeBaneRegime.png/revision/latest?cb=20180502194257"
+    },
+
+    {
+        "id": 13,
+        "name": "The Flash",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/d/d5/InjusticeTheFlashRegime.png/revision/latest?cb=20180502210509"
+    },
+
+    {
+        "id": 14,
+        "name": "Green Arrow",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/2/27/InjusticeGreenArrowInsurgancy.png/revision/latest?cb=20180502200654"
+    },
+    {
+        "id": 15,
+        "name": "Cyborg",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/4/4a/InjusticeCyborgRegime.png/revision/latest?cb=20180508015653"
+    },
+
+    {
+        "id": 16,
+        "name": "Sinestro",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/9/93/InjusticeSinestroRegime.png/revision/latest?cb=20180515183720"
+    }
+
+]
