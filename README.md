@@ -4,7 +4,7 @@ This is a memory app created with React.  The application uses components This w
 ## Getting Started: 
 Start playing the game by clicking on an image. Once an image is clicked the images shuffle, continue clicking on new images to score points.  If you click on an image more than once the score resets to 0 and the highest score is saved. 
 
-You can access the deployed app using this link:[ClickyGame](https://MV-stack.github.io/clickygame/)
+You can access the deployed app [here](https://MV-stack.github.io/clickygame/)
 
 ## App Image:
 ​​![Clicky](/public/InjusticeApp.PNG)
@@ -20,4 +20,4 @@ You can access the deployed app using this link:[ClickyGame](https://MV-stack.gi
 ## Links:
 - <a href="https://github.com/MV-stack" target="_blank"> GitHub </a>
 - <a href="www.linkedin.com/in/miguel-a-villegas" target="_blank"> LinkedIn </a>
-- <a href="https://MV-stack.github.io/Portfoliio-EC/" target="_blank"> Portfolio </a>
+- <a href="https://mv-stack.github.io/Portfolio-EC/" target="_blank"> Portfolio </a>
