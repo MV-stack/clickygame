@@ -20,4 +20,4 @@ You can access the deployed app [here](https://mv-stack.github.io/clickygame/)
 ## Links:
 - <a href="https://github.com/MV-stack" target="_blank"> GitHub </a>
 - <a href="https://www.linkedin.com/in/miguel-a-villegas/" target="_blank"> LinkedIn </a>
-- <a href="https://mv-stack.github.io/Portfolio-EC/" target="_blank"> Portfolio </a>s
+- <a href="https://mv-stack.github.io/Portfolio-EC/" target="_blank"> Portfolio </a>
