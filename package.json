@@ -1,5 +1,5 @@
 {
-  "name": "clickygame",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,18 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "clickyGame assignment",
-  "main": "server.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MV-stack/clickyGame.git"
-  },
-  "author": "Miguel Villegas",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MV-stack/clickyGame/issues"
-  },
-  "homepage": "https://github.com/MV-stack/clickyGame#readme"
+  }
 }
